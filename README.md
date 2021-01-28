@@ -4,7 +4,7 @@
 [![codecov](https://codecov.io/gh/valyala/fastjson/branch/master/graph/badge.svg)](https://codecov.io/gh/valyala/fastjson)
 
 # fastjson - fast JSON parser and validator for Go
-
+    go get -u github.com/mustang2247/fastjson
 
 ## Features
 
